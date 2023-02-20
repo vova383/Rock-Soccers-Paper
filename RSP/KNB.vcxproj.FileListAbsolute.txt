@@ -1,0 +1,3 @@
+D:\PROJECT C++\KNB\Release\KNB.vcxproj.CopyComplete
+D:\PROJECT C++\KNB\Release\KNB.exe
+D:\PROJECT C++\KNB\Release\raylib.dll
